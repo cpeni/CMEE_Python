@@ -1,4 +1,4 @@
-'Week7' Contents
+'Chapter6' Contents
 
 Advanced Python
 November 14-18 2016

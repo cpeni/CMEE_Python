@@ -4,7 +4,7 @@ This repository contains assignments I submitted for the coursework part of a Ma
 
 An overview of assignment topics per directory:
 
-### 'Week2' - Basic Python ###
+### 'Chapter5' - Basic Python ###
 Assign variables
 
 Data structures - list, tuple, set, dictionary
@@ -22,7 +22,7 @@ Debugging and unit testing
 	Breakpoints - use 'ipdb.set_trace()' to pause programs and start debugging
 
 
-### 'Week7' - Advanced Python, November 14-18 ###
+### 'Chapter6' - Advanced Python ###
 Regular expressions
 
 Number crunching with the 'scipy' package

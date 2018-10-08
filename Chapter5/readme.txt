@@ -1,4 +1,4 @@
-Overview of Week2 Contents
+Overview of Chapter5 Contents
 
 /Code
 basic_io.py - modules show how Python reads and writes text files
